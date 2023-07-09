@@ -4,6 +4,8 @@
 - DQ4WX0  - Final Work -  ViktoriaPanzio.docx
 - DQ4WX0  - Final Work -  ViktoriaPanzio.pdf
 ## Application
-NEOBOOK
+- NEOBOOK
 ## Source Code
 - DQ4WX0 - ViktoriaPanzio.pub
+## Objective output
+- DQ4WX0 - ViktoriaPanzio.exe
